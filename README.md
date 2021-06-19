@@ -2,7 +2,6 @@
   <img align="right" alt="JPG" src="https://github.com/nakshatra-garg/nakshatra-garg/blob/main/programmer.jpg" width="40%" height="40%" />
 <br>
 I'm a Junior Year Undergrad at College of Engineering Roorkee having background in Information Technology. I'm a Tech-Savvy, passionate about Data and Machine Learning.
-<br>
 
 ![Nakshatra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakshatra-garg&hide=issues&show_icons=true) <br>
 <br>
