@@ -2,7 +2,7 @@
   <img align="right" alt="JPG" src="https://github.com/nakshatra-garg/nakshatra-garg/blob/main/programmer.jpg" width="40%" height="40%" />
 <br>
 
-I'm a Final Year CS Undergrad at College of Engineering Roorkee having a strong background in IT. I'm a Tech-Savvy, passionate about Data Science and Artificial Intelligence, Open-Source contributor. I'm currently working on a reasearch project on climate in Data Analytics.
+I'm a Final Year CS Undergrad at College of Engineering Roorkee having a strong background in IT. I'm a Tech-Savvy, passionate about Data Science and Artificial Intelligence, Open-Source contributor. I'm currently working on a research project on climate in Data Analytics.
 <br>
 
 <hr></hr>
