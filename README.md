@@ -2,17 +2,16 @@
   <img align="right" alt="JPG" src="https://github.com/nakshatra-garg/nakshatra-garg/blob/main/programmer.jpg" width="40%" height="40%" />
 <br>
 
-I'm a Final Year CS Undergrad at College of Engineering Roorkee having a strong background in IT. I'm a Tech-Savvy, passionate about Data Science and Artificial Intelligence, Open-Source contributor. I'm currently working on a research project on climate in Data Analytics.
+I'm a Postgrad at VIT, University currently pursuing M.Tech (CSE) with specialization in AI and ML. I have a strong background in CS. I'm a Tech-Savvy, and very passionate about Artificial Intelligence and Machine Leaning, I've also done some Open-Source contributions in the past.
 <br>
 
 <hr></hr>
 <h2 align="left">Languages & Frameworks</h2>
 
 ![Python](https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%2300f.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -26,8 +25,8 @@ I'm a Final Year CS Undergrad at College of Engineering Roorkee having a strong 
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-%2366595C.svg?style=for-the-badge&logo=tableau)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
