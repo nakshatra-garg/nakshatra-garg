@@ -1,7 +1,8 @@
 ### Hi there, I'm Nakshatra Garg 👋
 <img align="right" alt="Programmer" src="https://github.com/nakshatra-garg/nakshatra-garg/blob/main/programmer.jpg" width="40%" height="40%" />
 
-🚀 I'm a Data Scientist with 2 years of experience building **real-time AI systems** in **Voice Tech** and **Natural Language Processing**.  
+🚀 I'm a Data Scientist with 2 years of experience building **real-time AI systems** in **Voice Tech** and **Natural Language Processing**.
+
 🎯 I specialize in turning **research-backed ideas** into **production-ready ML solutions** — from 15× faster **voice cloning** to **multilingual spoken language detection** shipped to enterprise clients.
 
 ---
