@@ -1,7 +1,7 @@
 ### Hi there, I'm Nakshatra Garg 👋
 <img align="right" alt="Programmer" src="https://github.com/nakshatra-garg/nakshatra-garg/blob/main/programmer.jpg" width="40%" height="40%" />
 
-🚀 Data Scientist with 2 years of experience building **real-time AI systems** in **Voice AI**, **NLP**, and **LLMs**.
+🚀 Data Scientist with 2+ years of experience building **real-time AI systems** in **Voice AI**, **NLP**, and **LLMs**.
 
 🎯 I specialize in turning research into **production-ready ML solutions** — from **20× faster voice cloning** to **RAG-powered voice bots** and **multilingual language detection** shipped to enterprise clients.
 
@@ -10,6 +10,7 @@
 ### 🧠 What I Work On
 
 - 🤖 Building **RAG pipelines** for LLM-powered chatbots and **GPT-Realtime voice bots** with two-tier caching (Redis + Qdrant)
+- 🧬 **Fine-tuned LLMs/SLMs** for a leading automotive enterprise — improving domain-specific accuracy for production conversational AI
 - 🎙️ Developed **voice cloning system** using RVC with custom headless pipeline — **20× latency reduction**
 - 🗣️ Deployed **Indic Language Detection** for 12 languages at **92% accuracy** for multilingual voice bots
 - ⚡ Designed **TTS caching workflows** using BGE-M3, pgvector, Redis, and Azure Blob to reduce cloud costs
@@ -35,9 +36,12 @@
 ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFCC00.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![LoRA/QLoRA](https://img.shields.io/badge/LoRA%2FQLoRA-%23FF6F00.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-%23FF4F64.svg?style=for-the-badge&logo=qdrant&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-%230075C2.svg?style=for-the-badge&logo=meta&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-%23FF6F00.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-%2300ADD8.svg?style=for-the-badge&logo=lightning&logoColor=white)
 
 **Speech & Voice AI**
 
@@ -45,6 +49,7 @@
 ![OpenAI Whisper](https://img.shields.io/badge/Whisper-%230075C2.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![RVC](https://img.shields.io/badge/RVC-%23EE4C2C.svg?style=for-the-badge&logo=soundcloud&logoColor=white)
 ![Azure TTS](https://img.shields.io/badge/Azure%20TTS-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-%23000000.svg?style=for-the-badge&logo=elevenlabs&logoColor=white)
 
 **OCR & Computer Vision**
 
@@ -64,10 +69,8 @@
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
 
 ### 🌍 Where to Find Me
 
