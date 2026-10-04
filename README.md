@@ -2,7 +2,7 @@
 
 <img src="header.svg" width="100%" alt="Nakshatra Garg — LLM Inference, GenAI & Voice AI"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Serving+~2.5M+voice-bot+calls%2Fday+on+self-hosted+LLMs+%F0%9F%9A%80;vLLM+%E2%80%A2+NVIDIA+H200+%E2%80%A2+50ms+TTFT+%E2%9A%A1;Hybrid+RAG+%E2%80%A2+LoRA+Fine-tuning+%E2%80%A2+Guardrails+%F0%9F%9B%A1%EF%B8%8F;Real-time+ASR+%2F+TTS+%2F+Voice+Bots+%F0%9F%8E%99%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=SServing+~2.5M+voice-bot+calls%2Fday+on+self-hosted+LLMs+%F0%9F%9A%80;vLLM+%E2%80%A2+NVIDIA+H200+%E2%80%A2+50ms+TTFT+%E2%9A%A1;Hybrid+RAG+%E2%80%A2+LoRA+Fine-tuning+%E2%80%A2+Guardrails+%F0%9F%9B%A1%EF%B8%8F;Real-time+ASR+%2F+TTS+%2F+Voice+Bots+%F0%9F%8E%99%EF%B8%8F" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://www.linkedin.com/in/nakshatra-garg"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
